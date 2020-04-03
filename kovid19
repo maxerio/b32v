@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html> 
+<body 
+
+style="background-color:lightblue;"> 
+
+<h1 style="border: 2px solid blue;">Saint george's</h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/StGeorgesGrenada2000.jpg" alt="Saint george's flag" style="width:250px;height:200px;"> 
+
+<hr> 
+
+<p> The city is located on the southwestern coast of Grenada. Cocoa and bananas are exported from the city's port, other important sources of income are sugar and rum production. In recent times, tourism has also become increasingly important, but due COVID-19 it has decreased.</p> 
+
+<h2>quick facts<h2/> 
+
+<p style="border: 1px solid black;">population: 4500 </p>
+
+<p style="border: 1px solid black;">land: Grenada</p> 
+
+<p style="border: 1px solid black;">GeoName: 3579925</p> 
+
+<hr> 
+
+<a href="http://www.raoulwallenbergskolan.se/">our school</a>
+
+<hr>
+
+<img src="https://previews.123rf.com/images/pavalena/pavalena1312/pavalena131200013/24641178-grenada-map.jpg" alt="map grenada" width="400" height="500">
+
+
+</body> 
+</html>
